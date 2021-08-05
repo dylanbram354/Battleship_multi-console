@@ -1,2 +1,3 @@
 # Battleship_multi-console
-Extra-extra-credit project fro devCodeCamp
+
+Extra credit Python project for devCodeCamp, attempting to create a console application of the game Battleship playable across multiple consoles.
